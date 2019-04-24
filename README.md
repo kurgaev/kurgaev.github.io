@@ -1,2 +1,2 @@
-# kurgaev.space
-My web site
+# kurgaev.github.io
+My test web site
