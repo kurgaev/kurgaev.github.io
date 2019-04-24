@@ -1,1 +1,2 @@
-# kurgaev.github.io
+# kurgaev.space
+My web site
